@@ -1,4 +1,6 @@
-## Windows 10 Powershell
+# Windows 10 Powershell
+
+## Windows Update
 ```
 Set-ExecutionPolicy RemoteSigned
 ```
@@ -61,6 +63,7 @@ https://raymii.org/s/tutorials/SSH_on_Windows_Server_2019.html \
 https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui
 
 ---
+
 ## Software
 https://chocolatey.org/install \
 https://github.com/gsass1/NTop
