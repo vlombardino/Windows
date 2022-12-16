@@ -65,5 +65,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_
 ---
 
 ## Software
+https://learn.microsoft.com/en-us/windows/package-manager/winget/ \
 https://chocolatey.org/install \
+https://github.com/ScoopInstaller/Scoop \
 https://github.com/gsass1/NTop
