@@ -1,6 +1,32 @@
-# Windows 10 Powershell
+# Windows 11
+## Create a Windows Update shortcut
+Right Click desktop
+> New -> Shortcut
+```
+C:\Windows\System32\control.exe update
+```
+Name: Windows Update
 
-## Windows Update
+## Run commands & PowerShell
+> WIN (key) + R
+
+Computer Management: `compmgmt.msc`\
+Device Manager: `devmgmt.msc`\
+Disk Management: `diskmgmt.msc`\
+Network Connections: `ncpa.cpl`\
+Windows Update: `ms-settings:windowsupdate`\
+\
+Active Directory Users and Computers: `dsa.msc`\
+Hyper-V Manager: `virtmgmt.msc`\
+Update Services: `wsus.msc`\
+\
+System Information: `systeminfo`
+
+---
+
+# Windows 10 
+## PowerShell as Administrator
+### Windows Update
 ```
 Set-ExecutionPolicy RemoteSigned
 ```
